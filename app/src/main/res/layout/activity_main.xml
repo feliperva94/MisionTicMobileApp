@@ -27,7 +27,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/city"
-        android:src="@drawable/medellin"/>
+        android:src="@drawable/medellin" android:contentDescription="@string/ciudad_de_medellin" />
 
     <TextView
         android:id="@+id/location_header"
@@ -99,6 +99,5 @@
         app:layout_constraintHorizontal_bias="0.65"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/information_header" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
