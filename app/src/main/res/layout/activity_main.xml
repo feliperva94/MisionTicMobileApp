@@ -32,7 +32,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/city"
-        app:srcCompat="@drawable/medellin_foto" />
+        app:srcCompat="@drawable/medellin_foto"/>
 
     <TextView
         android:id="@+id/location_header"
