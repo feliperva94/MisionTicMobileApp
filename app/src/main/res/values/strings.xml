@@ -9,4 +9,6 @@
     <string name="information_desc">Medellín es la capital de la provincia montañosa de Antioquia en Colombia. Es apodada la \"Ciudad de la eterna primavera\" por su clima templado y alberga la famosa Feria de las Flores anual. El moderno Metrocable conecta la ciudad con los barrios circundantes y tiene vistas del Valle de Aburrá que se encuentra debajo.</string>
     <string name="Actividades">Actividades</string>
     <string name="ciudad_de_medellin">Ciudad de Medellin</string>
+    <string name="recommend_sites">Sitios recomendados</string>
+    <string name="recommend_sitesDesc">*Jardin Botanico\n*Pueblito Paisa\n*Plaza Botero</string>
 </resources>
